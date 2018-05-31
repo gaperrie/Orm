@@ -10,7 +10,8 @@
         android:layout_height="250dp"
         android:orientation="vertical"
         tools:layout_editor_absoluteX="5dp"
-        tools:layout_editor_absoluteY="3dp">
+        tools:layout_editor_absoluteY="3dp"
+        tools:ignore="MissingConstraints">
 
         <TextView
             android:id="@+id/read_id"
